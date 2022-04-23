@@ -1,0 +1,5 @@
+John Smith 25.0 15.00
+Mary Jones 33.5 17.50
+Pat Brown 40.0 21.00
+Jen Simpson 37.5 18.00
+Gary Phillips 15.0 11.25
